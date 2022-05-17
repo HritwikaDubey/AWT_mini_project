@@ -5,7 +5,9 @@ Main page-> **login.php**
 The Encircle MITWPU has been created to serve as tour guide for all the  students who are enrolled here and has left the warmth of their homes to  attain a dazzling career. This website will help all those students to know their new surrounding which will make them all to feel at home. It is very  important for all of us to get acquainted with our neighborhood for getting all  our work done and help us to get over feeling homesick.  In this website users will be able to get in touch with divergent places like,  sports and health facilities, grocery stores, where they can shop, restaurants,  all of this near MITWPU where all the other students usually visit.
 
 
-![Screenshot (300)](https://user-images.githubusercontent.com/76564398/168821539-371b05ed-429e-4b1c-a50b-b90c165c94e9.png)
+
+
+![Screenshot (319)](https://user-images.githubusercontent.com/76564398/168824345-36b42306-2aee-4f60-85ba-4a6aade4f3ed.png)
 ![Screenshot (314)](https://user-images.githubusercontent.com/76564398/168823722-c77b7e27-5687-41e5-8cc5-cf07b67ba4a0.png)
 ![Screenshot (315)](https://user-images.githubusercontent.com/76564398/168823740-bfcd1b63-8a65-40a5-836c-87f0272c2acd.png)
 ![Screenshot (316)](https://user-images.githubusercontent.com/76564398/168823774-389bd471-e142-4f09-ba21-f46422486a5b.png)![Screenshot (317)](https://user-images.githubusercontent.com/76564398/168824059-dd7575db-82ca-4f83-866d-e8199a38be7f.png)
