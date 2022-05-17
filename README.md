@@ -1,5 +1,7 @@
 # AWT_mini_project
 The Encircle MITWPU has been created to serve as tour guide for all the  students who are enrolled here and has left the warmth of their homes to  attain a dazzling career. This website will help all those students to know their new surrounding which will make them all to feel at home. It is very  important for all of us to get acquainted with our neighborhood for getting all  our work done and help us to get over feeling homesick.  In this website users will be able to get in touch with divergent places like,  sports and health facilities, grocery stores, where they can shop, restaurants,  all of this near MITWPU where all the other students usually visit.
+
+
 ![Screenshot (300)](https://user-images.githubusercontent.com/76564398/168821539-371b05ed-429e-4b1c-a50b-b90c165c94e9.png)
 ![Screenshot (311)](https://user-images.githubusercontent.com/76564398/168821723-25571487-0127-42b5-b4d1-1235d7c8ea52.png)
 ![Screenshot (301)](https://user-images.githubusercontent.com/76564398/168821584-782edf91-8c0d-479a-b379-d16696e9810d.png)
