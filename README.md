@@ -10,6 +10,7 @@ The Encircle MITWPU has been created to serve as tour guide for all the  student
 ![Screenshot (319)](https://user-images.githubusercontent.com/76564398/168824345-36b42306-2aee-4f60-85ba-4a6aade4f3ed.png)
 ![Screenshot (314)](https://user-images.githubusercontent.com/76564398/168823722-c77b7e27-5687-41e5-8cc5-cf07b67ba4a0.png)
 ![Screenshot (315)](https://user-images.githubusercontent.com/76564398/168823740-bfcd1b63-8a65-40a5-836c-87f0272c2acd.png)
+![Screenshot (320)](https://user-images.githubusercontent.com/76564398/168824875-6060e1bb-e399-47d5-81cf-b57f40f7d607.png)
 ![Screenshot (317)](https://user-images.githubusercontent.com/76564398/168824059-dd7575db-82ca-4f83-866d-e8199a38be7f.png)
 ![Screenshot (318)](https://user-images.githubusercontent.com/76564398/168824074-e83604c0-2c5d-47cf-b48c-9accd8169ed9.png)
 ![Screenshot (316)](https://user-images.githubusercontent.com/76564398/168823774-389bd471-e142-4f09-ba21-f46422486a5b.png)
@@ -25,3 +26,5 @@ The Encircle MITWPU has been created to serve as tour guide for all the  student
 ![Screenshot (296)](https://user-images.githubusercontent.com/76564398/168822156-92c9b114-f7a9-4ad6-97fc-2782cf7fcc9b.png)
 ![Screenshot (297)](https://user-images.githubusercontent.com/76564398/168822166-6a06a1a0-4f95-45ab-8406-9ae15fe7904e.png)
 ![Screenshot (298)](https://user-images.githubusercontent.com/76564398/168822182-7fc1df52-ba33-4f89-8cef-7cfd376656a4.png)
+![Screenshot (321)](https://user-images.githubusercontent.com/76564398/168825439-c5f7710c-42c9-4b74-b34c-92865e6e6a21.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/76564398/168825463-b47749c6-dc05-4b7c-b4c7-9ff936af72e0.png)
