@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' />
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="about.css">
+</head>
+<body>
+
+    <div class="container_1">
+        <img src="Images/ENCIRCLE MITWPU.png" class="logo">
+        <div class="menu">
+            <ul>
+            
+                    <li class="li1"><a href="index.php">Home</a></li>
+                    <li class="li1"><a href="places.php">Places</a></li>
+                    <li class="li2"><a href="about.html"style="text-decoration:rgb(38, 191, 202) 3px underline; cursor: none;">About Us</a></li>
+                    <li class="li1"><a href="contact.html">Contact</a></li>
+                    
+            </ul>
+        </div>
+    
+          <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+          <script>
+              
+          </script>
+      </div>
+    
+
+
+    
+
+      <div class="slideshow-container">
+
+        <div class="mySlides">
+            <div class="about-section" style="text-align: center; margin: 0px 290px 60px 290px; height: 485px;  font-family:Rokkitt; line-height: 75px; ">
+                <h1 style=" color: #fbfdff; margin-top: 30px;font-size: 50px; line-height: 34px;">Our objective? To</h1>
+                <h2 style="color: #ffffff;font-size: 55px;">eradicate the problem of <br>feeling left out, anxious and</h2>
+                <h3 style=" color: #ffffff;font-size: 70px;">homesick when students<br> leave  their life of comfort and move to foreign cities for<br> higher education!</h3>
+    
+            
+          </div>
+        </div>
+        
+        <div class="mySlides " style="text-align: center;">
+          <div class="about-section" style="text-align: center; margin: 140px 230px 60px 230px; height: 485px;  font-family:Rokkitt; line-height: 75px; ">
+            <h1 style=" color: #fbfdff; margin-top: 30px;font-size: 50px; line-height: 45px;">Students can view all those places of comfort</h1>
+            <h3 style="color: #ffffff;font-size: 70px;">where they can let some steam off.</h3>
+                   
+            </div>
+        </div>
+        
+        <div class="mySlides">
+          <div class="about-section" style="text-align: center; margin: 140px 260px 60px 260px; height: 485px;  font-family:Rokkitt; line-height: 75px; ">
+            <h1 style=" color: #fbfdff; margin-top: 30px;font-size: 50px; line-height: 55px;">Students get to find those places </h1>
+            <h1 style=" color: #fbfdff; font-size: 50px; line-height: 64px;">where all MITWPU crowd resides during</h1>
+            <h3 style="color: #ffffff;font-size: 68px;">breaks or after college hours.</h3>
+                   
+            </div>
+        </div>
+        
+        <a class="prev" onclick="plusSlides(-1)">❮</a>
+        <a class="next" onclick="plusSlides(1)">❯</a>
+        
+        </div>
+            <br><br><br><br>
+        <div class="dot-container">
+            <span class="dot" onclick="currentSlide(1)"></span> 
+            <span class="dot" onclick="currentSlide(2)"></span> 
+            <span class="dot" onclick="currentSlide(3)"></span> 
+          </div>
+
+          
+<script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+    }
+    </script>
+    
+      
+
+
+
+
+
+
+
+
+
+
+      <section class="team" id="team">
+            <div class="section-header"><br>
+                <h2 class="section-heading">The Team</h2>
+                <div class="underline"></div>
+            </div>
+        <!-- ---------------- -->
+            <div class="containerN">
+                <div class="card">
+                    <div class="content">
+                        <div class="imgBx"><img src="Images/girl.svg"></div>
+                        <div class="contentBx">
+                            <h2>Ishika Tiwari</h2>
+                             <h3>DIV B</h3>
+                             <p>lala lala lala</p>
+                        </div>
+                    </div>
+                    <ul class="sci">
+                     <li>
+                         <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                     </li>
+                     <li>
+                        <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    </li>
+                 </ul>
+                </div>
+
+                <div class="card">
+                    <div class="content">
+                        <div class="imgBx"><img src="Images/boy.svg"></div>
+                        <div class="contentBx">
+                            <h2>Dheeraj Solankar</h2>
+                    <h3>DIV B</h3>
+                    <p>lala lala lala</p>
+                        </div>
+                    </div>
+                    <ul class="sci">
+                     <li >
+                         <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                     </li>
+                     <li>
+                        <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    </li>
+                 </ul>
+                </div>
+
+                <div class="card">
+                    <div class="content">
+                        <div class="imgBx"><img src="Images/girl.svg"></div>
+                        <div class="contentBx">
+                            <h2>Hritwika Dubey</h2>
+                            <h3>DIV B</h3>
+                            <p>lala lala lala</p>
+                        </div>
+                    </div>
+                    <ul class="sci">
+                     <li>
+                         <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                     </li>
+                     <li>
+                        <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    </li>
+                 </ul>
+                </div>
+
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+        <footer style="font-size: 15px; color: #a9b3b9; margin:70px 0px 0px 10px;"><centre>Copyright © 2022 EnCircle MITWPU All rights reserved.</centre></footer>
+      
+</body>
+</html>
